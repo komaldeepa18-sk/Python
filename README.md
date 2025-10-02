@@ -1,2 +1,2 @@
 # Python
-This has the Python code, with FastApi,NumPy,PyTorch
+This repository contains Python code that provides a clear and practical illustration of how NumPy can be used for efficient numerical computations. It demonstrates key functionalities such as array creation, slicing, broadcasting, and vectorized operations — all of which are foundational for data analysis, machine learning, and scientific computing workflows. The examples are designed to be beginner-friendly yet scalable for more advanced use cases.
